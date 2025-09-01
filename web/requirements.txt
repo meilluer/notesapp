@@ -1,0 +1,4 @@
+fastapi==0.111.0
+# add your DB drivers (e.g. asyncpg or psycopg2-binary) and SQLAlchemy if used
+# sqlalchemy==2.0.30
+# asyncpg==0.27.0
